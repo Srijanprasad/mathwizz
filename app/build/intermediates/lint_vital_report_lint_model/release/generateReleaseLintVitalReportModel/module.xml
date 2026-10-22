@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="/Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app"
+    dir="/Users/srijanprasad/projects/mathsprint/app"
     name=":app"
     type="APP"
     maven="MathSprint:app:unspecified"

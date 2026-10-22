@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.mathsprint.game.domain.LevelProgressionEngineTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-21T02:57:25" hostname="Unknown_fa.04.a0.80.fe.d0" time="0.001">
+<testsuite name="com.mathsprint.game.domain.LevelProgressionEngineTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-22T06:55:01" hostname="Srijans-MacBook-Air.local" time="0.004">
   <properties/>
-  <testcase name="testStarCalculation" classname="com.mathsprint.game.domain.LevelProgressionEngineTest" time="0.0"/>
-  <testcase name="testLevelCalculation" classname="com.mathsprint.game.domain.LevelProgressionEngineTest" time="0.0"/>
-  <testcase name="testBandUnlocking" classname="com.mathsprint.game.domain.LevelProgressionEngineTest" time="0.001"/>
+  <testcase name="testStarCalculation" classname="com.mathsprint.game.domain.LevelProgressionEngineTest" time="0.001"/>
+  <testcase name="testLevelCalculation" classname="com.mathsprint.game.domain.LevelProgressionEngineTest" time="0.001"/>
+  <testcase name="testBandUnlocking" classname="com.mathsprint.game.domain.LevelProgressionEngineTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

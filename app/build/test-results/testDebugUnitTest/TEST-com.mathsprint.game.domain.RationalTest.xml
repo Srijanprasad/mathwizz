@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.mathsprint.game.domain.RationalTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-21T02:57:25" hostname="Unknown_fa.04.a0.80.fe.d0" time="0.002">
+<testsuite name="com.mathsprint.game.domain.RationalTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-22T06:55:01" hostname="Srijans-MacBook-Air.local" time="0.003">
   <properties/>
   <testcase name="testReduction" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
-  <testcase name="testComparison" classname="com.mathsprint.game.domain.RationalTest" time="0.001"/>
-  <testcase name="testWholeNumberToString" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
-  <testcase name="testZeroDenominatorThrows" classname="com.mathsprint.game.domain.RationalTest" time="0.001"/>
+  <testcase name="testComparison" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
+  <testcase name="testWholeNumberToString" classname="com.mathsprint.game.domain.RationalTest" time="0.001"/>
+  <testcase name="testZeroDenominatorThrows" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
   <testcase name="testMultiplication" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
   <testcase name="testAddition" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
   <testcase name="testSubtraction" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>

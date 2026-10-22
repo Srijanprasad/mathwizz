@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.mathsprint.game.app-mergeReleaseResources-2:/values/values.xml",
+            "outputFile": "com.mathsprint.game.app-mergeReleaseResources-55:/values/values.xml",
             "map": [
                 {
                     "source": "/Users/srijanprasad/.gradle/caches/8.11.1/transforms/1ff61b2cf16e64aa6de6010d1b526ff6/transformed/lifecycle-runtime-release/res/values/values.xml",
@@ -95,6 +95,25 @@
                     }
                 },
                 {
+                    "source": "/Users/srijanprasad/projects/mathsprint/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "227",
+                        "startColumns": "4",
+                        "startOffsets": "14559",
+                        "endLines": "230",
+                        "endColumns": "12",
+                        "endOffsets": "14813"
+                    }
+                },
+                {
                     "source": "/Users/srijanprasad/.gradle/caches/8.11.1/transforms/e5b498c3f7f9c815eb192e36d8ba9829/transformed/foundation-release/res/values/values.xml",
                     "from": {
                         "startLines": "2,3",
@@ -146,26 +165,7 @@
                     }
                 },
                 {
-                    "source": "/Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/src/main/res/values/themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "5",
-                        "endColumns": "12",
-                        "endOffsets": "309"
-                    },
-                    "to": {
-                        "startLines": "227",
-                        "startColumns": "4",
-                        "startOffsets": "14559",
-                        "endLines": "230",
-                        "endColumns": "12",
-                        "endOffsets": "14813"
-                    }
-                },
-                {
-                    "source": "/Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/src/main/res/values/strings.xml",
+                    "source": "/Users/srijanprasad/projects/mathsprint/app/src/main/res/values/strings.xml",
                     "from": {
                         "startLines": "2,1",
                         "startColumns": "4,4",

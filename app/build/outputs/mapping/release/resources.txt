@@ -1,414 +1,414 @@
-Marking id:view_tree_lifecycle_owner:2131034196 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:androidx_startup:2131296256 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking style:DialogWindowTheme:2131361792 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:compose_view_saveable_id_tag:2131034154 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:view_tree_view_model_store_owner:2131034199 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:view_tree_saved_state_registry_owner:2131034198 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:view_tree_on_back_pressed_dispatcher_owner:2131034197 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:default_error_message:2131296268 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_window_insets_animation_callback:2131034191 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_on_apply_window_listener:2131034183 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:hide_graphics_layer_in_inspector_tag:2131034159 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_screen_reader_focusable:2131034186 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_accessibility_heading:2131034181 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_accessibility_pane_title:2131034182 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_state_description:2131034187 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_accessibility_actions:2131034179 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_action_clickable_span:2131034112 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_accessibility_clickable_spans:2131034180 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:androidx_compose_ui_view_composition_context:2131034150 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:tab:2131296340 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:switch_role:2131296339 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:pooling_container_listener_holder_tag:2131034175 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_unhandled_key_event_manager:2131034189 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:tag_unhandled_key_listeners:2131034190 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:consume_window_insets_tag:2131034155 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_0:2131034113 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_1:2131034114 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_2:2131034125 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_3:2131034136 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_4:2131034139 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_5:2131034140 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_6:2131034141 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_7:2131034142 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_8:2131034143 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_9:2131034144 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_10:2131034115 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_11:2131034116 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_12:2131034117 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_13:2131034118 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_14:2131034119 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_15:2131034120 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_16:2131034121 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_17:2131034122 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_18:2131034123 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_19:2131034124 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_20:2131034126 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_21:2131034127 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_22:2131034128 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_23:2131034129 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_24:2131034130 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_25:2131034131 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_26:2131034132 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_27:2131034133 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_28:2131034134 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_29:2131034135 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_30:2131034137 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:accessibility_custom_action_31:2131034138 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:indeterminate:2131296272 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:state_off:2131296336 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:state_on:2131296337 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:selected:2131296334 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:not_selected:2131296331 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:template_percent:2131296341 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:in_progress:2131296271 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:state_empty:2131296335 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:wrapped_composition_tag:2131034200 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:default_popup_window_title:2131296269 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking string:m3c_dialog:2131296309 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:is_pooling_container_tag:2131034166 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:hide_in_inspector_tag:2131034161 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:inspection_slot_table_set:2131034165 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-Marking id:report_drawn:2131034176 reachable: referenced from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-@attr/action : reachable=false
-@attr/alpha : reachable=false
-@attr/argType : reachable=false
-@attr/data : reachable=false
-@attr/dataPattern : reachable=false
-@attr/destination : reachable=false
-@attr/enterAnim : reachable=false
-@attr/exitAnim : reachable=false
-@attr/font : reachable=false
-@attr/fontProviderAuthority : reachable=false
-@attr/fontProviderCerts : reachable=false
-@attr/fontProviderFallbackQuery : reachable=false
-@attr/fontProviderFetchStrategy : reachable=false
-@attr/fontProviderFetchTimeout : reachable=false
-@attr/fontProviderPackage : reachable=false
-@attr/fontProviderQuery : reachable=false
-@attr/fontProviderSystemFontFamily : reachable=false
-@attr/fontStyle : reachable=false
-@attr/fontVariationSettings : reachable=false
-@attr/fontWeight : reachable=false
-@attr/graph : reachable=false
-@attr/lStar : reachable=false
-@attr/launchSingleTop : reachable=false
-@attr/mimeType : reachable=false
-@attr/navGraph : reachable=false
-@attr/nestedScrollViewStyle : reachable=false
-@attr/nullable : reachable=false
-@attr/popEnterAnim : reachable=false
-@attr/popExitAnim : reachable=false
-@attr/popUpTo : reachable=false
-@attr/popUpToInclusive : reachable=false
-@attr/popUpToSaveState : reachable=false
-@attr/queryPatterns : reachable=false
-@attr/restoreState : reachable=false
-@attr/route : reachable=false
-@attr/shortcutMatchRequired : reachable=false
-@attr/startDestination : reachable=false
-@attr/targetPackage : reachable=false
-@attr/ttcIndex : reachable=false
-@attr/uri : reachable=false
-@color/androidx_core_ripple_material_light : reachable=false
-@color/androidx_core_secondary_text_default_material_light : reachable=false
-@color/call_notification_answer_color : reachable=false
-@color/call_notification_decline_color : reachable=false
-@color/notification_action_color_filter : reachable=false
-    @color/androidx_core_secondary_text_default_material_light
-@color/notification_icon_bg_color : reachable=false
-@color/vector_tint_color : reachable=false
-@color/vector_tint_theme_color : reachable=false
-@dimen/compat_button_inset_horizontal_material : reachable=false
-@dimen/compat_button_inset_vertical_material : reachable=false
-@dimen/compat_button_padding_horizontal_material : reachable=false
-@dimen/compat_button_padding_vertical_material : reachable=false
-@dimen/compat_control_corner_material : reachable=false
-@dimen/compat_notification_large_icon_max_height : reachable=false
-@dimen/compat_notification_large_icon_max_width : reachable=false
-@dimen/notification_action_icon_size : reachable=false
-@dimen/notification_action_text_size : reachable=false
-@dimen/notification_big_circle_margin : reachable=false
-@dimen/notification_content_margin_start : reachable=false
-@dimen/notification_large_icon_height : reachable=false
-@dimen/notification_large_icon_width : reachable=false
-@dimen/notification_main_column_padding_top : reachable=false
-@dimen/notification_media_narrow_margin : reachable=false
-@dimen/notification_right_icon_size : reachable=false
-@dimen/notification_right_side_padding_top : reachable=false
-@dimen/notification_small_icon_background_padding : reachable=false
-@dimen/notification_small_icon_size_as_large : reachable=false
-@dimen/notification_subtext_size : reachable=false
-@dimen/notification_top_pad : reachable=false
-@dimen/notification_top_pad_large_text : reachable=false
-@drawable/ic_call_answer : reachable=false
-@drawable/ic_call_answer_low : reachable=false
-@drawable/ic_call_answer_video : reachable=false
-@drawable/ic_call_answer_video_low : reachable=false
-@drawable/ic_call_decline : reachable=false
-@drawable/ic_call_decline_low : reachable=false
-@drawable/ic_launcher_background : reachable=false
-@drawable/ic_launcher_foreground : reachable=false
-@drawable/notification_action_background : reachable=false
-    @color/androidx_core_ripple_material_light
-    @dimen/compat_button_inset_horizontal_material
-    @dimen/compat_button_inset_vertical_material
-    @dimen/compat_control_corner_material
-    @dimen/compat_button_padding_horizontal_material
-    @dimen/compat_button_padding_vertical_material
-@drawable/notification_bg : reachable=false
-    @drawable/notification_bg_normal_pressed
-    @drawable/notification_bg_normal
-@drawable/notification_bg_low : reachable=false
-    @drawable/notification_bg_low_pressed
-    @drawable/notification_bg_low_normal
-@drawable/notification_bg_low_normal : reachable=false
-@drawable/notification_bg_low_pressed : reachable=false
-@drawable/notification_bg_normal : reachable=false
-@drawable/notification_bg_normal_pressed : reachable=false
-@drawable/notification_icon_background : reachable=false
-    @color/notification_icon_bg_color
-@drawable/notification_oversize_large_icon_bg : reachable=false
-@drawable/notification_template_icon_bg : reachable=false
-@drawable/notification_template_icon_low_bg : reachable=false
-@drawable/notification_tile_bg : reachable=false
-    @drawable/notify_panel_notification_icon_bg
-@drawable/notify_panel_notification_icon_bg : reachable=false
-@id/accessibility_action_clickable_span : reachable=true
-@id/accessibility_custom_action_0 : reachable=true
-@id/accessibility_custom_action_1 : reachable=true
-@id/accessibility_custom_action_10 : reachable=true
-@id/accessibility_custom_action_11 : reachable=true
-@id/accessibility_custom_action_12 : reachable=true
-@id/accessibility_custom_action_13 : reachable=true
-@id/accessibility_custom_action_14 : reachable=true
-@id/accessibility_custom_action_15 : reachable=true
-@id/accessibility_custom_action_16 : reachable=true
-@id/accessibility_custom_action_17 : reachable=true
-@id/accessibility_custom_action_18 : reachable=true
-@id/accessibility_custom_action_19 : reachable=true
-@id/accessibility_custom_action_2 : reachable=true
-@id/accessibility_custom_action_20 : reachable=true
-@id/accessibility_custom_action_21 : reachable=true
-@id/accessibility_custom_action_22 : reachable=true
-@id/accessibility_custom_action_23 : reachable=true
-@id/accessibility_custom_action_24 : reachable=true
-@id/accessibility_custom_action_25 : reachable=true
-@id/accessibility_custom_action_26 : reachable=true
-@id/accessibility_custom_action_27 : reachable=true
-@id/accessibility_custom_action_28 : reachable=true
-@id/accessibility_custom_action_29 : reachable=true
-@id/accessibility_custom_action_3 : reachable=true
-@id/accessibility_custom_action_30 : reachable=true
-@id/accessibility_custom_action_31 : reachable=true
-@id/accessibility_custom_action_4 : reachable=true
-@id/accessibility_custom_action_5 : reachable=true
-@id/accessibility_custom_action_6 : reachable=true
-@id/accessibility_custom_action_7 : reachable=true
-@id/accessibility_custom_action_8 : reachable=true
-@id/accessibility_custom_action_9 : reachable=true
-@id/action_container : reachable=false
-@id/action_divider : reachable=false
-@id/action_image : reachable=false
-@id/action_text : reachable=false
-@id/actions : reachable=false
-@id/androidx_compose_ui_view_composition_context : reachable=true
-@id/async : reachable=false
-@id/blocking : reachable=false
-@id/chronometer : reachable=false
-@id/compose_view_saveable_id_tag : reachable=true
-@id/consume_window_insets_tag : reachable=true
-@id/dialog_button : reachable=false
-@id/edit_text_id : reachable=false
-@id/forever : reachable=false
-@id/hide_graphics_layer_in_inspector_tag : reachable=true
-@id/hide_ime_id : reachable=false
-@id/hide_in_inspector_tag : reachable=true
-@id/icon : reachable=false
-@id/icon_group : reachable=false
-@id/info : reachable=false
-@id/inspection_slot_table_set : reachable=true
-@id/is_pooling_container_tag : reachable=true
-@id/italic : reachable=false
-@id/line1 : reachable=false
-@id/line3 : reachable=false
-@id/nav_controller_view_tag : reachable=false
-@id/normal : reachable=false
-@id/notification_background : reachable=false
-@id/notification_main_column : reachable=false
-@id/notification_main_column_container : reachable=false
-@id/pooling_container_listener_holder_tag : reachable=true
-@id/report_drawn : reachable=true
-@id/right_icon : reachable=false
-@id/right_side : reachable=false
-@id/tag_accessibility_actions : reachable=true
-@id/tag_accessibility_clickable_spans : reachable=true
-@id/tag_accessibility_heading : reachable=true
-@id/tag_accessibility_pane_title : reachable=true
-@id/tag_on_apply_window_listener : reachable=true
-@id/tag_on_receive_content_listener : reachable=false
-@id/tag_on_receive_content_mime_types : reachable=false
-@id/tag_screen_reader_focusable : reachable=true
-@id/tag_state_description : reachable=true
-@id/tag_transition_group : reachable=false
-@id/tag_unhandled_key_event_manager : reachable=true
-@id/tag_unhandled_key_listeners : reachable=true
-@id/tag_window_insets_animation_callback : reachable=true
-@id/text : reachable=false
-@id/text2 : reachable=false
-@id/time : reachable=false
-@id/title : reachable=false
-@id/view_tree_lifecycle_owner : reachable=true
-@id/view_tree_on_back_pressed_dispatcher_owner : reachable=true
-@id/view_tree_saved_state_registry_owner : reachable=true
-@id/view_tree_view_model_store_owner : reachable=true
-@id/wrapped_composition_tag : reachable=true
-@integer/m3c_window_layout_in_display_cutout_mode : reachable=false
-@integer/status_bar_notification_info_maxnum : reachable=false
-@layout/custom_dialog : reachable=false
-@layout/ime_base_split_test_activity : reachable=false
-@layout/ime_secondary_split_test_activity : reachable=false
-@layout/notification_action : reachable=false
-    @style/Widget_Compat_NotificationActionContainer
-    @dimen/notification_action_icon_size
-    @style/Widget_Compat_NotificationActionText
-@layout/notification_action_tombstone : reachable=false
-    @style/Widget_Compat_NotificationActionContainer
-    @dimen/notification_action_icon_size
-    @style/Widget_Compat_NotificationActionText
-@layout/notification_template_custom_big : reachable=false
-    @dimen/notification_large_icon_width
-    @dimen/notification_large_icon_height
-    @layout/notification_template_icon_group
-    @dimen/notification_right_side_padding_top
-    @layout/notification_template_part_time
-    @layout/notification_template_part_chronometer
-    @style/TextAppearance_Compat_Notification_Info
-@layout/notification_template_icon_group : reachable=false
-    @dimen/notification_large_icon_width
-    @dimen/notification_large_icon_height
-    @dimen/notification_big_circle_margin
-    @dimen/notification_right_icon_size
-@layout/notification_template_part_chronometer : reachable=false
-    @style/TextAppearance_Compat_Notification_Time
-@layout/notification_template_part_time : reachable=false
-    @style/TextAppearance_Compat_Notification_Time
-@mipmap/ic_launcher : reachable=true
-    @drawable/ic_launcher_background
-    @drawable/ic_launcher_foreground
-@mipmap/ic_launcher_round : reachable=true
-    @drawable/ic_launcher_background
-    @drawable/ic_launcher_foreground
-@string/androidx_startup : reachable=true
-@string/app_description : reachable=false
-@string/app_name : reachable=true
-@string/call_notification_answer_action : reachable=false
-@string/call_notification_answer_video_action : reachable=false
-@string/call_notification_decline_action : reachable=false
-@string/call_notification_hang_up_action : reachable=false
-@string/call_notification_incoming_text : reachable=false
-@string/call_notification_ongoing_text : reachable=false
-@string/call_notification_screening_text : reachable=false
-@string/close_drawer : reachable=false
-@string/close_sheet : reachable=false
-@string/default_error_message : reachable=true
-@string/default_popup_window_title : reachable=true
-@string/dropdown_menu : reachable=false
-@string/in_progress : reachable=true
-@string/indeterminate : reachable=true
-@string/m3c_bottom_sheet_collapse_description : reachable=false
-@string/m3c_bottom_sheet_dismiss_description : reachable=false
-@string/m3c_bottom_sheet_drag_handle_description : reachable=false
-@string/m3c_bottom_sheet_expand_description : reachable=false
-@string/m3c_bottom_sheet_pane_title : reachable=false
-@string/m3c_date_input_headline : reachable=false
-@string/m3c_date_input_headline_description : reachable=false
-@string/m3c_date_input_invalid_for_pattern : reachable=false
-@string/m3c_date_input_invalid_not_allowed : reachable=false
-@string/m3c_date_input_invalid_year_range : reachable=false
-@string/m3c_date_input_label : reachable=false
-@string/m3c_date_input_no_input_description : reachable=false
-@string/m3c_date_input_title : reachable=false
-@string/m3c_date_picker_headline : reachable=false
-@string/m3c_date_picker_headline_description : reachable=false
-@string/m3c_date_picker_navigate_to_year_description : reachable=false
-@string/m3c_date_picker_no_selection_description : reachable=false
-@string/m3c_date_picker_scroll_to_earlier_years : reachable=false
-@string/m3c_date_picker_scroll_to_later_years : reachable=false
-@string/m3c_date_picker_switch_to_calendar_mode : reachable=false
-@string/m3c_date_picker_switch_to_day_selection : reachable=false
-@string/m3c_date_picker_switch_to_input_mode : reachable=false
-@string/m3c_date_picker_switch_to_next_month : reachable=false
-@string/m3c_date_picker_switch_to_previous_month : reachable=false
-@string/m3c_date_picker_switch_to_year_selection : reachable=false
-@string/m3c_date_picker_title : reachable=false
-@string/m3c_date_picker_today_description : reachable=false
-@string/m3c_date_picker_year_picker_pane_title : reachable=false
-@string/m3c_date_range_input_invalid_range_input : reachable=false
-@string/m3c_date_range_input_title : reachable=false
-@string/m3c_date_range_picker_day_in_range : reachable=false
-@string/m3c_date_range_picker_end_headline : reachable=false
-@string/m3c_date_range_picker_scroll_to_next_month : reachable=false
-@string/m3c_date_range_picker_scroll_to_previous_month : reachable=false
-@string/m3c_date_range_picker_start_headline : reachable=false
-@string/m3c_date_range_picker_title : reachable=false
-@string/m3c_dialog : reachable=true
-@string/m3c_dropdown_menu_collapsed : reachable=false
-@string/m3c_dropdown_menu_expanded : reachable=false
-@string/m3c_dropdown_menu_toggle : reachable=false
-@string/m3c_search_bar_search : reachable=false
-@string/m3c_snackbar_dismiss : reachable=false
-@string/m3c_suggestions_available : reachable=false
-@string/m3c_time_picker_am : reachable=false
-@string/m3c_time_picker_hour : reachable=false
-@string/m3c_time_picker_hour_24h_suffix : reachable=false
-@string/m3c_time_picker_hour_selection : reachable=false
-@string/m3c_time_picker_hour_suffix : reachable=false
-@string/m3c_time_picker_hour_text_field : reachable=false
-@string/m3c_time_picker_minute : reachable=false
-@string/m3c_time_picker_minute_selection : reachable=false
-@string/m3c_time_picker_minute_suffix : reachable=false
-@string/m3c_time_picker_minute_text_field : reachable=false
-@string/m3c_time_picker_period_toggle_description : reachable=false
-@string/m3c_time_picker_pm : reachable=false
-@string/m3c_tooltip_long_press_label : reachable=false
-@string/m3c_tooltip_pane_description : reachable=false
-@string/navigation_menu : reachable=false
-@string/not_selected : reachable=true
-@string/range_end : reachable=false
-@string/range_start : reachable=false
-@string/selected : reachable=true
-@string/state_empty : reachable=true
-@string/state_off : reachable=true
-@string/state_on : reachable=true
-@string/status_bar_notification_info_overflow : reachable=false
-@string/switch_role : reachable=true
-@string/tab : reachable=true
-@string/template_percent : reachable=true
-@string/tooltip_description : reachable=false
-@string/tooltip_label : reachable=false
-@style/DialogWindowTheme : reachable=true
-@style/EdgeToEdgeFloatingDialogTheme : reachable=false
-    @integer/m3c_window_layout_in_display_cutout_mode
-@style/EdgeToEdgeFloatingDialogWindowTheme : reachable=false
-    @style/EdgeToEdgeFloatingDialogTheme
-@style/FloatingDialogTheme : reachable=false
-@style/FloatingDialogWindowTheme : reachable=false
-    @style/FloatingDialogTheme
-@style/TextAppearance_Compat_Notification : reachable=false
-@style/TextAppearance_Compat_Notification_Info : reachable=false
-@style/TextAppearance_Compat_Notification_Line2 : reachable=false
-    @style/TextAppearance_Compat_Notification_Info
-@style/TextAppearance_Compat_Notification_Time : reachable=false
-@style/TextAppearance_Compat_Notification_Title : reachable=false
-@style/Theme_MathSprint : reachable=true
-@style/Widget_Compat_NotificationActionContainer : reachable=false
-    @drawable/notification_action_background
-@style/Widget_Compat_NotificationActionText : reachable=false
-    @dimen/notification_action_text_size
-    @color/androidx_core_secondary_text_default_material_light
-@xml/backup_rules : reachable=true
-@xml/data_extraction_rules : reachable=true
+Marking id:view_tree_lifecycle_owner:2131034196 reachable: referenced from base/dex/classes.dex
+Marking string:androidx_startup:2131296256 reachable: referenced from base/dex/classes.dex
+Marking style:DialogWindowTheme:2131361792 reachable: referenced from base/dex/classes.dex
+Marking id:compose_view_saveable_id_tag:2131034154 reachable: referenced from base/dex/classes.dex
+Marking id:view_tree_view_model_store_owner:2131034199 reachable: referenced from base/dex/classes.dex
+Marking id:view_tree_saved_state_registry_owner:2131034198 reachable: referenced from base/dex/classes.dex
+Marking id:view_tree_on_back_pressed_dispatcher_owner:2131034197 reachable: referenced from base/dex/classes.dex
+Marking string:default_error_message:2131296268 reachable: referenced from base/dex/classes.dex
+Marking id:tag_window_insets_animation_callback:2131034191 reachable: referenced from base/dex/classes.dex
+Marking id:tag_on_apply_window_listener:2131034183 reachable: referenced from base/dex/classes.dex
+Marking id:hide_graphics_layer_in_inspector_tag:2131034159 reachable: referenced from base/dex/classes.dex
+Marking id:tag_screen_reader_focusable:2131034186 reachable: referenced from base/dex/classes.dex
+Marking id:tag_accessibility_heading:2131034181 reachable: referenced from base/dex/classes.dex
+Marking id:tag_accessibility_pane_title:2131034182 reachable: referenced from base/dex/classes.dex
+Marking id:tag_state_description:2131034187 reachable: referenced from base/dex/classes.dex
+Marking id:tag_accessibility_actions:2131034179 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_action_clickable_span:2131034112 reachable: referenced from base/dex/classes.dex
+Marking id:tag_accessibility_clickable_spans:2131034180 reachable: referenced from base/dex/classes.dex
+Marking id:androidx_compose_ui_view_composition_context:2131034150 reachable: referenced from base/dex/classes.dex
+Marking string:tab:2131296340 reachable: referenced from base/dex/classes.dex
+Marking string:switch_role:2131296339 reachable: referenced from base/dex/classes.dex
+Marking id:pooling_container_listener_holder_tag:2131034175 reachable: referenced from base/dex/classes.dex
+Marking id:tag_unhandled_key_event_manager:2131034189 reachable: referenced from base/dex/classes.dex
+Marking id:tag_unhandled_key_listeners:2131034190 reachable: referenced from base/dex/classes.dex
+Marking id:consume_window_insets_tag:2131034155 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_0:2131034113 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_1:2131034114 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_2:2131034125 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_3:2131034136 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_4:2131034139 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_5:2131034140 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_6:2131034141 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_7:2131034142 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_8:2131034143 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_9:2131034144 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_10:2131034115 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_11:2131034116 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_12:2131034117 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_13:2131034118 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_14:2131034119 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_15:2131034120 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_16:2131034121 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_17:2131034122 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_18:2131034123 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_19:2131034124 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_20:2131034126 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_21:2131034127 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_22:2131034128 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_23:2131034129 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_24:2131034130 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_25:2131034131 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_26:2131034132 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_27:2131034133 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_28:2131034134 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_29:2131034135 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_30:2131034137 reachable: referenced from base/dex/classes.dex
+Marking id:accessibility_custom_action_31:2131034138 reachable: referenced from base/dex/classes.dex
+Marking string:indeterminate:2131296272 reachable: referenced from base/dex/classes.dex
+Marking string:state_off:2131296336 reachable: referenced from base/dex/classes.dex
+Marking string:state_on:2131296337 reachable: referenced from base/dex/classes.dex
+Marking string:selected:2131296334 reachable: referenced from base/dex/classes.dex
+Marking string:not_selected:2131296331 reachable: referenced from base/dex/classes.dex
+Marking string:template_percent:2131296341 reachable: referenced from base/dex/classes.dex
+Marking string:in_progress:2131296271 reachable: referenced from base/dex/classes.dex
+Marking string:state_empty:2131296335 reachable: referenced from base/dex/classes.dex
+Marking id:wrapped_composition_tag:2131034200 reachable: referenced from base/dex/classes.dex
+Marking string:default_popup_window_title:2131296269 reachable: referenced from base/dex/classes.dex
+Marking string:m3c_dialog:2131296309 reachable: referenced from base/dex/classes.dex
+Marking id:is_pooling_container_tag:2131034166 reachable: referenced from base/dex/classes.dex
+Marking id:hide_in_inspector_tag:2131034161 reachable: referenced from base/dex/classes.dex
+Marking id:inspection_slot_table_set:2131034165 reachable: referenced from base/dex/classes.dex
+Marking id:report_drawn:2131034176 reachable: referenced from base/dex/classes.dex
+@com.mathsprint.game:attr/action : reachable=false
+@com.mathsprint.game:attr/alpha : reachable=false
+@com.mathsprint.game:attr/argType : reachable=false
+@com.mathsprint.game:attr/data : reachable=false
+@com.mathsprint.game:attr/dataPattern : reachable=false
+@com.mathsprint.game:attr/destination : reachable=false
+@com.mathsprint.game:attr/enterAnim : reachable=false
+@com.mathsprint.game:attr/exitAnim : reachable=false
+@com.mathsprint.game:attr/font : reachable=false
+@com.mathsprint.game:attr/fontProviderAuthority : reachable=false
+@com.mathsprint.game:attr/fontProviderCerts : reachable=false
+@com.mathsprint.game:attr/fontProviderFallbackQuery : reachable=false
+@com.mathsprint.game:attr/fontProviderFetchStrategy : reachable=false
+@com.mathsprint.game:attr/fontProviderFetchTimeout : reachable=false
+@com.mathsprint.game:attr/fontProviderPackage : reachable=false
+@com.mathsprint.game:attr/fontProviderQuery : reachable=false
+@com.mathsprint.game:attr/fontProviderSystemFontFamily : reachable=false
+@com.mathsprint.game:attr/fontStyle : reachable=false
+@com.mathsprint.game:attr/fontVariationSettings : reachable=false
+@com.mathsprint.game:attr/fontWeight : reachable=false
+@com.mathsprint.game:attr/graph : reachable=false
+@com.mathsprint.game:attr/lStar : reachable=false
+@com.mathsprint.game:attr/launchSingleTop : reachable=false
+@com.mathsprint.game:attr/mimeType : reachable=false
+@com.mathsprint.game:attr/navGraph : reachable=false
+@com.mathsprint.game:attr/nestedScrollViewStyle : reachable=false
+@com.mathsprint.game:attr/nullable : reachable=false
+@com.mathsprint.game:attr/popEnterAnim : reachable=false
+@com.mathsprint.game:attr/popExitAnim : reachable=false
+@com.mathsprint.game:attr/popUpTo : reachable=false
+@com.mathsprint.game:attr/popUpToInclusive : reachable=false
+@com.mathsprint.game:attr/popUpToSaveState : reachable=false
+@com.mathsprint.game:attr/queryPatterns : reachable=false
+@com.mathsprint.game:attr/restoreState : reachable=false
+@com.mathsprint.game:attr/route : reachable=false
+@com.mathsprint.game:attr/shortcutMatchRequired : reachable=false
+@com.mathsprint.game:attr/startDestination : reachable=false
+@com.mathsprint.game:attr/targetPackage : reachable=false
+@com.mathsprint.game:attr/ttcIndex : reachable=false
+@com.mathsprint.game:attr/uri : reachable=false
+@com.mathsprint.game:color/androidx_core_ripple_material_light : reachable=false
+@com.mathsprint.game:color/androidx_core_secondary_text_default_material_light : reachable=false
+@com.mathsprint.game:color/call_notification_answer_color : reachable=false
+@com.mathsprint.game:color/call_notification_decline_color : reachable=false
+@com.mathsprint.game:color/notification_action_color_filter : reachable=false
+    @com.mathsprint.game:color/androidx_core_secondary_text_default_material_light
+@com.mathsprint.game:color/notification_icon_bg_color : reachable=false
+@com.mathsprint.game:color/vector_tint_color : reachable=false
+@com.mathsprint.game:color/vector_tint_theme_color : reachable=false
+@com.mathsprint.game:dimen/compat_button_inset_horizontal_material : reachable=false
+@com.mathsprint.game:dimen/compat_button_inset_vertical_material : reachable=false
+@com.mathsprint.game:dimen/compat_button_padding_horizontal_material : reachable=false
+@com.mathsprint.game:dimen/compat_button_padding_vertical_material : reachable=false
+@com.mathsprint.game:dimen/compat_control_corner_material : reachable=false
+@com.mathsprint.game:dimen/compat_notification_large_icon_max_height : reachable=false
+@com.mathsprint.game:dimen/compat_notification_large_icon_max_width : reachable=false
+@com.mathsprint.game:dimen/notification_action_icon_size : reachable=false
+@com.mathsprint.game:dimen/notification_action_text_size : reachable=false
+@com.mathsprint.game:dimen/notification_big_circle_margin : reachable=false
+@com.mathsprint.game:dimen/notification_content_margin_start : reachable=false
+@com.mathsprint.game:dimen/notification_large_icon_height : reachable=false
+@com.mathsprint.game:dimen/notification_large_icon_width : reachable=false
+@com.mathsprint.game:dimen/notification_main_column_padding_top : reachable=false
+@com.mathsprint.game:dimen/notification_media_narrow_margin : reachable=false
+@com.mathsprint.game:dimen/notification_right_icon_size : reachable=false
+@com.mathsprint.game:dimen/notification_right_side_padding_top : reachable=false
+@com.mathsprint.game:dimen/notification_small_icon_background_padding : reachable=false
+@com.mathsprint.game:dimen/notification_small_icon_size_as_large : reachable=false
+@com.mathsprint.game:dimen/notification_subtext_size : reachable=false
+@com.mathsprint.game:dimen/notification_top_pad : reachable=false
+@com.mathsprint.game:dimen/notification_top_pad_large_text : reachable=false
+@com.mathsprint.game:drawable/ic_call_answer : reachable=false
+@com.mathsprint.game:drawable/ic_call_answer_low : reachable=false
+@com.mathsprint.game:drawable/ic_call_answer_video : reachable=false
+@com.mathsprint.game:drawable/ic_call_answer_video_low : reachable=false
+@com.mathsprint.game:drawable/ic_call_decline : reachable=false
+@com.mathsprint.game:drawable/ic_call_decline_low : reachable=false
+@com.mathsprint.game:drawable/ic_launcher_background : reachable=false
+@com.mathsprint.game:drawable/ic_launcher_foreground : reachable=false
+@com.mathsprint.game:drawable/notification_action_background : reachable=false
+    @com.mathsprint.game:color/androidx_core_ripple_material_light
+    @com.mathsprint.game:dimen/compat_button_inset_horizontal_material
+    @com.mathsprint.game:dimen/compat_button_inset_vertical_material
+    @com.mathsprint.game:dimen/compat_control_corner_material
+    @com.mathsprint.game:dimen/compat_button_padding_vertical_material
+    @com.mathsprint.game:dimen/compat_button_padding_horizontal_material
+@com.mathsprint.game:drawable/notification_bg : reachable=false
+    @com.mathsprint.game:drawable/notification_bg_normal_pressed
+    @com.mathsprint.game:drawable/notification_bg_normal
+@com.mathsprint.game:drawable/notification_bg_low : reachable=false
+    @com.mathsprint.game:drawable/notification_bg_low_pressed
+    @com.mathsprint.game:drawable/notification_bg_low_normal
+@com.mathsprint.game:drawable/notification_bg_low_normal : reachable=false
+@com.mathsprint.game:drawable/notification_bg_low_pressed : reachable=false
+@com.mathsprint.game:drawable/notification_bg_normal : reachable=false
+@com.mathsprint.game:drawable/notification_bg_normal_pressed : reachable=false
+@com.mathsprint.game:drawable/notification_icon_background : reachable=false
+    @com.mathsprint.game:color/notification_icon_bg_color
+@com.mathsprint.game:drawable/notification_oversize_large_icon_bg : reachable=false
+@com.mathsprint.game:drawable/notification_template_icon_bg : reachable=false
+@com.mathsprint.game:drawable/notification_template_icon_low_bg : reachable=false
+@com.mathsprint.game:drawable/notification_tile_bg : reachable=false
+    @com.mathsprint.game:drawable/notify_panel_notification_icon_bg
+@com.mathsprint.game:drawable/notify_panel_notification_icon_bg : reachable=false
+@com.mathsprint.game:id/accessibility_action_clickable_span : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_0 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_1 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_10 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_11 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_12 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_13 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_14 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_15 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_16 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_17 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_18 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_19 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_2 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_20 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_21 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_22 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_23 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_24 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_25 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_26 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_27 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_28 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_29 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_3 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_30 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_31 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_4 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_5 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_6 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_7 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_8 : reachable=true
+@com.mathsprint.game:id/accessibility_custom_action_9 : reachable=true
+@com.mathsprint.game:id/action_container : reachable=false
+@com.mathsprint.game:id/action_divider : reachable=false
+@com.mathsprint.game:id/action_image : reachable=false
+@com.mathsprint.game:id/action_text : reachable=false
+@com.mathsprint.game:id/actions : reachable=false
+@com.mathsprint.game:id/androidx_compose_ui_view_composition_context : reachable=true
+@com.mathsprint.game:id/async : reachable=false
+@com.mathsprint.game:id/blocking : reachable=false
+@com.mathsprint.game:id/chronometer : reachable=false
+@com.mathsprint.game:id/compose_view_saveable_id_tag : reachable=true
+@com.mathsprint.game:id/consume_window_insets_tag : reachable=true
+@com.mathsprint.game:id/dialog_button : reachable=false
+@com.mathsprint.game:id/edit_text_id : reachable=false
+@com.mathsprint.game:id/forever : reachable=false
+@com.mathsprint.game:id/hide_graphics_layer_in_inspector_tag : reachable=true
+@com.mathsprint.game:id/hide_ime_id : reachable=false
+@com.mathsprint.game:id/hide_in_inspector_tag : reachable=true
+@com.mathsprint.game:id/icon : reachable=false
+@com.mathsprint.game:id/icon_group : reachable=false
+@com.mathsprint.game:id/info : reachable=false
+@com.mathsprint.game:id/inspection_slot_table_set : reachable=true
+@com.mathsprint.game:id/is_pooling_container_tag : reachable=true
+@com.mathsprint.game:id/italic : reachable=false
+@com.mathsprint.game:id/line1 : reachable=false
+@com.mathsprint.game:id/line3 : reachable=false
+@com.mathsprint.game:id/nav_controller_view_tag : reachable=false
+@com.mathsprint.game:id/normal : reachable=false
+@com.mathsprint.game:id/notification_background : reachable=false
+@com.mathsprint.game:id/notification_main_column : reachable=false
+@com.mathsprint.game:id/notification_main_column_container : reachable=false
+@com.mathsprint.game:id/pooling_container_listener_holder_tag : reachable=true
+@com.mathsprint.game:id/report_drawn : reachable=true
+@com.mathsprint.game:id/right_icon : reachable=false
+@com.mathsprint.game:id/right_side : reachable=false
+@com.mathsprint.game:id/tag_accessibility_actions : reachable=true
+@com.mathsprint.game:id/tag_accessibility_clickable_spans : reachable=true
+@com.mathsprint.game:id/tag_accessibility_heading : reachable=true
+@com.mathsprint.game:id/tag_accessibility_pane_title : reachable=true
+@com.mathsprint.game:id/tag_on_apply_window_listener : reachable=true
+@com.mathsprint.game:id/tag_on_receive_content_listener : reachable=false
+@com.mathsprint.game:id/tag_on_receive_content_mime_types : reachable=false
+@com.mathsprint.game:id/tag_screen_reader_focusable : reachable=true
+@com.mathsprint.game:id/tag_state_description : reachable=true
+@com.mathsprint.game:id/tag_transition_group : reachable=false
+@com.mathsprint.game:id/tag_unhandled_key_event_manager : reachable=true
+@com.mathsprint.game:id/tag_unhandled_key_listeners : reachable=true
+@com.mathsprint.game:id/tag_window_insets_animation_callback : reachable=true
+@com.mathsprint.game:id/text : reachable=false
+@com.mathsprint.game:id/text2 : reachable=false
+@com.mathsprint.game:id/time : reachable=false
+@com.mathsprint.game:id/title : reachable=false
+@com.mathsprint.game:id/view_tree_lifecycle_owner : reachable=true
+@com.mathsprint.game:id/view_tree_on_back_pressed_dispatcher_owner : reachable=true
+@com.mathsprint.game:id/view_tree_saved_state_registry_owner : reachable=true
+@com.mathsprint.game:id/view_tree_view_model_store_owner : reachable=true
+@com.mathsprint.game:id/wrapped_composition_tag : reachable=true
+@com.mathsprint.game:integer/m3c_window_layout_in_display_cutout_mode : reachable=false
+@com.mathsprint.game:integer/status_bar_notification_info_maxnum : reachable=false
+@com.mathsprint.game:layout/custom_dialog : reachable=false
+@com.mathsprint.game:layout/ime_base_split_test_activity : reachable=false
+@com.mathsprint.game:layout/ime_secondary_split_test_activity : reachable=false
+@com.mathsprint.game:layout/notification_action : reachable=false
+    @com.mathsprint.game:style/Widget_Compat_NotificationActionContainer
+    @com.mathsprint.game:dimen/notification_action_icon_size
+    @com.mathsprint.game:style/Widget_Compat_NotificationActionText
+@com.mathsprint.game:layout/notification_action_tombstone : reachable=false
+    @com.mathsprint.game:style/Widget_Compat_NotificationActionContainer
+    @com.mathsprint.game:dimen/notification_action_icon_size
+    @com.mathsprint.game:style/Widget_Compat_NotificationActionText
+@com.mathsprint.game:layout/notification_template_custom_big : reachable=false
+    @com.mathsprint.game:layout/notification_template_icon_group
+    @com.mathsprint.game:dimen/notification_large_icon_width
+    @com.mathsprint.game:dimen/notification_large_icon_height
+    @com.mathsprint.game:dimen/notification_right_side_padding_top
+    @com.mathsprint.game:layout/notification_template_part_time
+    @com.mathsprint.game:layout/notification_template_part_chronometer
+    @com.mathsprint.game:style/TextAppearance_Compat_Notification_Info
+@com.mathsprint.game:layout/notification_template_icon_group : reachable=false
+    @com.mathsprint.game:dimen/notification_large_icon_width
+    @com.mathsprint.game:dimen/notification_large_icon_height
+    @com.mathsprint.game:dimen/notification_big_circle_margin
+    @com.mathsprint.game:dimen/notification_right_icon_size
+@com.mathsprint.game:layout/notification_template_part_chronometer : reachable=false
+    @com.mathsprint.game:style/TextAppearance_Compat_Notification_Time
+@com.mathsprint.game:layout/notification_template_part_time : reachable=false
+    @com.mathsprint.game:style/TextAppearance_Compat_Notification_Time
+@com.mathsprint.game:mipmap/ic_launcher : reachable=true
+    @com.mathsprint.game:drawable/ic_launcher_background
+    @com.mathsprint.game:drawable/ic_launcher_foreground
+@com.mathsprint.game:mipmap/ic_launcher_round : reachable=true
+    @com.mathsprint.game:drawable/ic_launcher_background
+    @com.mathsprint.game:drawable/ic_launcher_foreground
+@com.mathsprint.game:string/androidx_startup : reachable=true
+@com.mathsprint.game:string/app_description : reachable=false
+@com.mathsprint.game:string/app_name : reachable=true
+@com.mathsprint.game:string/call_notification_answer_action : reachable=false
+@com.mathsprint.game:string/call_notification_answer_video_action : reachable=false
+@com.mathsprint.game:string/call_notification_decline_action : reachable=false
+@com.mathsprint.game:string/call_notification_hang_up_action : reachable=false
+@com.mathsprint.game:string/call_notification_incoming_text : reachable=false
+@com.mathsprint.game:string/call_notification_ongoing_text : reachable=false
+@com.mathsprint.game:string/call_notification_screening_text : reachable=false
+@com.mathsprint.game:string/close_drawer : reachable=false
+@com.mathsprint.game:string/close_sheet : reachable=false
+@com.mathsprint.game:string/default_error_message : reachable=true
+@com.mathsprint.game:string/default_popup_window_title : reachable=true
+@com.mathsprint.game:string/dropdown_menu : reachable=false
+@com.mathsprint.game:string/in_progress : reachable=true
+@com.mathsprint.game:string/indeterminate : reachable=true
+@com.mathsprint.game:string/m3c_bottom_sheet_collapse_description : reachable=false
+@com.mathsprint.game:string/m3c_bottom_sheet_dismiss_description : reachable=false
+@com.mathsprint.game:string/m3c_bottom_sheet_drag_handle_description : reachable=false
+@com.mathsprint.game:string/m3c_bottom_sheet_expand_description : reachable=false
+@com.mathsprint.game:string/m3c_bottom_sheet_pane_title : reachable=false
+@com.mathsprint.game:string/m3c_date_input_headline : reachable=false
+@com.mathsprint.game:string/m3c_date_input_headline_description : reachable=false
+@com.mathsprint.game:string/m3c_date_input_invalid_for_pattern : reachable=false
+@com.mathsprint.game:string/m3c_date_input_invalid_not_allowed : reachable=false
+@com.mathsprint.game:string/m3c_date_input_invalid_year_range : reachable=false
+@com.mathsprint.game:string/m3c_date_input_label : reachable=false
+@com.mathsprint.game:string/m3c_date_input_no_input_description : reachable=false
+@com.mathsprint.game:string/m3c_date_input_title : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_headline : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_headline_description : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_navigate_to_year_description : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_no_selection_description : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_scroll_to_earlier_years : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_scroll_to_later_years : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_switch_to_calendar_mode : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_switch_to_day_selection : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_switch_to_input_mode : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_switch_to_next_month : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_switch_to_previous_month : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_switch_to_year_selection : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_title : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_today_description : reachable=false
+@com.mathsprint.game:string/m3c_date_picker_year_picker_pane_title : reachable=false
+@com.mathsprint.game:string/m3c_date_range_input_invalid_range_input : reachable=false
+@com.mathsprint.game:string/m3c_date_range_input_title : reachable=false
+@com.mathsprint.game:string/m3c_date_range_picker_day_in_range : reachable=false
+@com.mathsprint.game:string/m3c_date_range_picker_end_headline : reachable=false
+@com.mathsprint.game:string/m3c_date_range_picker_scroll_to_next_month : reachable=false
+@com.mathsprint.game:string/m3c_date_range_picker_scroll_to_previous_month : reachable=false
+@com.mathsprint.game:string/m3c_date_range_picker_start_headline : reachable=false
+@com.mathsprint.game:string/m3c_date_range_picker_title : reachable=false
+@com.mathsprint.game:string/m3c_dialog : reachable=true
+@com.mathsprint.game:string/m3c_dropdown_menu_collapsed : reachable=false
+@com.mathsprint.game:string/m3c_dropdown_menu_expanded : reachable=false
+@com.mathsprint.game:string/m3c_dropdown_menu_toggle : reachable=false
+@com.mathsprint.game:string/m3c_search_bar_search : reachable=false
+@com.mathsprint.game:string/m3c_snackbar_dismiss : reachable=false
+@com.mathsprint.game:string/m3c_suggestions_available : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_am : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_hour : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_hour_24h_suffix : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_hour_selection : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_hour_suffix : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_hour_text_field : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_minute : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_minute_selection : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_minute_suffix : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_minute_text_field : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_period_toggle_description : reachable=false
+@com.mathsprint.game:string/m3c_time_picker_pm : reachable=false
+@com.mathsprint.game:string/m3c_tooltip_long_press_label : reachable=false
+@com.mathsprint.game:string/m3c_tooltip_pane_description : reachable=false
+@com.mathsprint.game:string/navigation_menu : reachable=false
+@com.mathsprint.game:string/not_selected : reachable=true
+@com.mathsprint.game:string/range_end : reachable=false
+@com.mathsprint.game:string/range_start : reachable=false
+@com.mathsprint.game:string/selected : reachable=true
+@com.mathsprint.game:string/state_empty : reachable=true
+@com.mathsprint.game:string/state_off : reachable=true
+@com.mathsprint.game:string/state_on : reachable=true
+@com.mathsprint.game:string/status_bar_notification_info_overflow : reachable=false
+@com.mathsprint.game:string/switch_role : reachable=true
+@com.mathsprint.game:string/tab : reachable=true
+@com.mathsprint.game:string/template_percent : reachable=true
+@com.mathsprint.game:string/tooltip_description : reachable=false
+@com.mathsprint.game:string/tooltip_label : reachable=false
+@com.mathsprint.game:style/DialogWindowTheme : reachable=true
+@com.mathsprint.game:style/EdgeToEdgeFloatingDialogTheme : reachable=false
+    @com.mathsprint.game:integer/m3c_window_layout_in_display_cutout_mode
+@com.mathsprint.game:style/EdgeToEdgeFloatingDialogWindowTheme : reachable=false
+    @com.mathsprint.game:style/EdgeToEdgeFloatingDialogTheme
+@com.mathsprint.game:style/FloatingDialogTheme : reachable=false
+@com.mathsprint.game:style/FloatingDialogWindowTheme : reachable=false
+    @com.mathsprint.game:style/FloatingDialogTheme
+@com.mathsprint.game:style/TextAppearance_Compat_Notification : reachable=false
+@com.mathsprint.game:style/TextAppearance_Compat_Notification_Info : reachable=false
+@com.mathsprint.game:style/TextAppearance_Compat_Notification_Line2 : reachable=false
+    @com.mathsprint.game:style/TextAppearance_Compat_Notification_Info
+@com.mathsprint.game:style/TextAppearance_Compat_Notification_Time : reachable=false
+@com.mathsprint.game:style/TextAppearance_Compat_Notification_Title : reachable=false
+@com.mathsprint.game:style/Theme_MathSprint : reachable=true
+@com.mathsprint.game:style/Widget_Compat_NotificationActionContainer : reachable=false
+    @com.mathsprint.game:drawable/notification_action_background
+@com.mathsprint.game:style/Widget_Compat_NotificationActionText : reachable=false
+    @com.mathsprint.game:color/androidx_core_secondary_text_default_material_light
+    @com.mathsprint.game:dimen/notification_action_text_size
+@com.mathsprint.game:xml/backup_rules : reachable=true
+@com.mathsprint.game:xml/data_extraction_rules : reachable=true
 
 The root reachable resources are:
  id:accessibility_action_clickable_span:2131034112

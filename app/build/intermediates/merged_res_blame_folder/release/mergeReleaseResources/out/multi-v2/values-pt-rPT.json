@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.mathsprint.game.app-mergeReleaseResources-2:/values-pt-rPT/values-pt-rPT.xml",
+            "outputFile": "com.mathsprint.game.app-mergeReleaseResources-55:/values-pt-rPT/values-pt-rPT.xml",
             "map": [
                 {
                     "source": "/Users/srijanprasad/.gradle/caches/8.11.1/transforms/b47dc0b1722c807046717636ae76d893/transformed/ui-release/res/values-pt-rPT/values-pt-rPT.xml",

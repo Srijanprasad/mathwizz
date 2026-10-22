@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.mathsprint.game.app-mergeReleaseResources-2:/values-lv/values-lv.xml",
+            "outputFile": "com.mathsprint.game.app-mergeReleaseResources-55:/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "/Users/srijanprasad/.gradle/caches/8.11.1/transforms/7df1f6105fcc85324af7ef35cb0d8311/transformed/material3-release/res/values-lv/values-lv.xml",

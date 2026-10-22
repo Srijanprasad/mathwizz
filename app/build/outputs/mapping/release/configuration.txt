@@ -1,4 +1,4 @@
-# The proguard configuration file for the following section is /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/aapt_proguard_file/release/processReleaseResources/aapt_rules.txt
+# The proguard configuration file for the following section is /Users/srijanprasad/projects/mathsprint/app/build/intermediates/aapt_proguard_file/release/processReleaseResources/aapt_rules.txt
 -keep class androidx.core.app.CoreComponentFactory { <init>(); }
 -keep class androidx.profileinstaller.ProfileInstallReceiver { <init>(); }
 -keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
@@ -6,8 +6,8 @@
 -keep class com.mathsprint.game.MainActivity { <init>(); }
 -keep class com.mathsprint.game.MathSprintApplication { <init>(); }
 
-# End of content from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/aapt_proguard_file/release/processReleaseResources/aapt_rules.txt
-# The proguard configuration file for the following section is /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.7.3
+# End of content from /Users/srijanprasad/projects/mathsprint/app/build/intermediates/aapt_proguard_file/release/processReleaseResources/aapt_rules.txt
+# The proguard configuration file for the following section is /Users/srijanprasad/projects/mathsprint/app/build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.7.3
 # This is a configuration file for ProGuard.
 # http://proguard.sourceforge.net/index.html#manual/usage.html
 #
@@ -98,8 +98,8 @@
 # These classes are duplicated between android.jar and core-lambda-stubs.jar.
 -dontnote java.lang.invoke.**
 
-# End of content from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.7.3
-# The proguard configuration file for the following section is /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/proguard-rules.pro
+# End of content from /Users/srijanprasad/projects/mathsprint/app/build/intermediates/default_proguard_files/global/proguard-android-optimize.txt-8.7.3
+# The proguard configuration file for the following section is /Users/srijanprasad/projects/mathsprint/app/proguard-rules.pro
 # Room Database Proguard Rules
 -keepclassmembers class * extends androidx.room.RoomDatabase {
     <init>();
@@ -116,7 +116,7 @@
     @androidx.compose.runtime.Composable *;
 }
 
-# End of content from /Users/srijanprasad/.gemini/antigravity-ide/scratch/mathsprint/app/proguard-rules.pro
+# End of content from /Users/srijanprasad/projects/mathsprint/app/proguard-rules.pro
 # The proguard configuration file for the following section is /Users/srijanprasad/.gradle/caches/8.11.1/transforms/db6045c8295d853b4f0a73765613d0f4/transformed/navigation-common-2.8.4/proguard.txt
 # Copyright (C) 2019 The Android Open Source Project
 #

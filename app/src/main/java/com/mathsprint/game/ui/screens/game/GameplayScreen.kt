@@ -110,8 +110,31 @@ fun GameplayScreen(
                 .padding(horizontal = 20.dp, vertical = 8.dp),
             verticalArrangement = Arrangement.SpaceBetween
         ) {
-            // Header Progress & Streak Area
+            // Header Progress & Info Area
             Column(modifier = Modifier.fillMaxWidth()) {
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    horizontalArrangement = Arrangement.SpaceBetween,
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Text(
+                        text = if (session.mode == GameMode.TIME_ATTACK) {
+                            "TIME ATTACK • ${uiState.remainingSeconds}s"
+                        } else {
+                            "QUESTION ${session.currentIndex + 1} OF ${session.questions.size}"
+                        },
+                        fontSize = 14.sp,
+                        fontWeight = FontWeight.Bold,
+                        color = MaterialTheme.colorScheme.primary
+                    )
+                    Text(
+                        text = "${session.category.displayName} • ${session.difficulty.displayName}",
+                        fontSize = 12.sp,
+                        color = MaterialTheme.colorScheme.onSurfaceVariant
+                    )
+                }
+                Spacer(modifier = Modifier.height(8.dp))
+
                 if (session.mode.isTimed) {
                     TimerBar(
                         remainingSeconds = uiState.remainingSeconds,
@@ -123,8 +146,8 @@ fun GameplayScreen(
                         progress = { session.progressFraction },
                         modifier = Modifier
                             .fillMaxWidth()
-                            .height(6.dp)
-                            .clip(RoundedCornerShape(3.dp)),
+                            .height(8.dp)
+                            .clip(RoundedCornerShape(4.dp)),
                         color = MaterialTheme.colorScheme.primary,
                         trackColor = MaterialTheme.colorScheme.surfaceVariant
                     )
@@ -153,7 +176,7 @@ fun GameplayScreen(
                         colors = CardDefaults.cardColors(
                             containerColor = MaterialTheme.colorScheme.surfaceVariant
                         ),
-                        elevation = CardDefaults.cardElevation(defaultElevation = 2.dp),
+                        elevation = CardDefaults.cardElevation(defaultElevation = 4.dp),
                         modifier = Modifier
                             .fillMaxWidth()
                             .padding(vertical = 8.dp)
@@ -163,21 +186,21 @@ fun GameplayScreen(
                             verticalArrangement = Arrangement.Center,
                             modifier = Modifier
                                 .fillMaxWidth()
-                                .padding(horizontal = 24.dp, vertical = 36.dp)
+                                .padding(horizontal = 24.dp, vertical = 32.dp)
                         ) {
                             Text(
-                                text = currentQuestion.expression,
-                                fontSize = 42.sp,
+                                text = "${currentQuestion.expression} = ?",
+                                fontSize = 38.sp,
                                 fontWeight = FontWeight.Bold,
                                 textAlign = TextAlign.Center,
                                 letterSpacing = 1.sp,
                                 color = MaterialTheme.colorScheme.onSurface
                             )
-                            Spacer(modifier = Modifier.height(8.dp))
+                            Spacer(modifier = Modifier.height(12.dp))
                             Text(
-                                text = "= ?",
-                                fontSize = 28.sp,
-                                fontWeight = FontWeight.SemiBold,
+                                text = "Choose the correct answer",
+                                fontSize = 14.sp,
+                                fontWeight = FontWeight.Medium,
                                 color = MaterialTheme.colorScheme.primary
                             )
                         }
