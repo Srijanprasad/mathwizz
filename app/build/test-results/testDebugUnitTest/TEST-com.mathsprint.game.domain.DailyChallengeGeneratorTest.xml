@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mathsprint.game.domain.DailyChallengeGeneratorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-10-21T02:57:25" hostname="Unknown_fa.04.a0.80.fe.d0" time="0.046">
+  <properties/>
+  <testcase name="testDifferentDateGeneratesDifferentSeed" classname="com.mathsprint.game.domain.DailyChallengeGeneratorTest" time="0.007"/>
+  <testcase name="testDeterministicGeneration" classname="com.mathsprint.game.domain.DailyChallengeGeneratorTest" time="0.039"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

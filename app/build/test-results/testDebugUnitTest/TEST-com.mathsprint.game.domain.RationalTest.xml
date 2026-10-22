@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.mathsprint.game.domain.RationalTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2026-10-21T02:57:25" hostname="Unknown_fa.04.a0.80.fe.d0" time="0.002">
+  <properties/>
+  <testcase name="testReduction" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
+  <testcase name="testComparison" classname="com.mathsprint.game.domain.RationalTest" time="0.001"/>
+  <testcase name="testWholeNumberToString" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
+  <testcase name="testZeroDenominatorThrows" classname="com.mathsprint.game.domain.RationalTest" time="0.001"/>
+  <testcase name="testMultiplication" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
+  <testcase name="testAddition" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
+  <testcase name="testSubtraction" classname="com.mathsprint.game.domain.RationalTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

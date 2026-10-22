@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MathSprint</string>
+    <string name="app_description">Rapid, offline-first mental mathematics training game</string>
+</resources>
